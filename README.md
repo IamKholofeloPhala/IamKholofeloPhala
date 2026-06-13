@@ -22,31 +22,34 @@
 
 ## 👨🏾‍💻 About Me
 
-```python
-class KholofeloPhalakatshela:
+<table>
+<tr>
+<td>
 
-    def __init__(self):
-        self.name = "Kholofelo Phalakatshela"
-        self.username = "IamKholofeloPhala"
-        self.location = "South Africa 🇿🇦"
-        self.education = "Sol Plaatje University"
-        self.program = "Diploma in ICT Application Development"
-        self.focus = [
-            "Artificial Intelligence",
-            "AI Agents",
-            "RAG Systems",
-            "Cybersecurity",
-            "Automation",
-            "Software Engineering",
-            "Cloud Computing"
-        ]
+🎓 Final-year ICT Application Development Student
 
-    def current_goal(self):
-        return "Become a world-class AI Engineer"
+🤖 AI Engineering Enthusiast
 
-me = KholofeloPhalakatshela()
-print(me.current_goal())
-```
+🧠 Learning AI Agents & RAG Systems
+
+🛡️ Cybersecurity Enthusiast
+
+⚙️ Automation Builder
+
+💻 Software Developer
+
+🇿🇦 South Africa
+
+</td>
+<td>
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250"/>
+
+</td>
+</tr>
+</table>
+
+
 
 ---
 
