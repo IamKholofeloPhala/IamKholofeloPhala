@@ -26,7 +26,7 @@
 <tr>
 <td>
 
-🎓 Final-year ICT Application Development Student
+🎓  ICT Application Development Graduate
 
 🤖 AI Engineering Enthusiast
 
