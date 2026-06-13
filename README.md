@@ -70,6 +70,12 @@ print(me.goal())
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/IamKholofeloPhala/IamKholofeloPhala/output/snake.svg" />
+</p>
+
 ## 🧠 AI Engineering Roadmap
 
 ```text
