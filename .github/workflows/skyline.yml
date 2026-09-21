@@ -1,1 +1,28 @@
+name: Generate 3D Skyline
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Skyline
+        uses: yoshi389111/github-profile-3d-contrib@main
+        with:
+          username: YOUR-USERNAME
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push Skyline to profile-3d-contrib branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: profile-3d-contrib
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
