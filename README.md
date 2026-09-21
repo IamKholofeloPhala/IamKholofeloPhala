@@ -64,19 +64,15 @@ Digitizing operations across the minibus taxi industry with a five-role architec
   <img src="https://streak-stats.demolab.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true&background=0D1117" width="65%"/>
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="90%"/>
+  <br/>
+  🌆 3D Contribution Skyline  
+  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+  <br/>
+  🐍 The Snake Eats My Commits  
+  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
-
----
-
-## 🗺️ The Road Ahead
-**Trajectory:**  
-- ✅ Software Engineering (2023–2025)  
-- 🔄 Software Testing (2024–2026)  
-- 🚕 E-RANK Expansion (2024–2027)  
-- 🤖 AI Engineering (2025–2027)  
-- ☁️ Cloud / DevOps (2026–2028)  
-- 🚀 Production Systems (2027–2029)  
-- 🏆 Software Quality Leadership (2028–2030)  
 
 ---
 
