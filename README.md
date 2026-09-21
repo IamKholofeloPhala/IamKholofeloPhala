@@ -1,139 +1,148 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=KHOLOFELO%20PHALAKATSHELA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20QA%20%7C%20Automation&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00c6ff,50:0072ff,100:8E2DE2&height=280&section=header&text=KHOLOFELO%20PHALAKATSHELA&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20AI%20ENGINEER%20%E2%80%A2%20QUALITY%20%2B%20AUTOMATION&descAlignY=55&descAlign=50" width="100%"/>
 
-<a href="https://github.com/YOUR-USERNAME">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I+build+software+around+problems%2C+not+just+technologies.;Software+Engineering+%E2%80%A2+AI+%E2%80%A2+Testing+%E2%80%A2+Automation;Building+E-RANK+%E2%80%94+South+Africa%27s+Digital+Taxi+Rank+Platform;From+South+Africa+%F0%9F%87%BF%F0%9F%87%A6+%E2%80%94+Building+Toward+The+Future.&font=Fira+Code&center=true&width=780&height=50&color=58A6FF&vCenter=true&size=22&pause=1200"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com/?lines=I+build+software+around+problems+%E2%80%94+not+just+technologies.;Architecting+E-RANK%3A+South+Africa%27s+Digital+Taxi+Rank+Platform;Software+Engineering+%E2%80%A2+AI+%E2%80%A2+Testing+%E2%80%A2+Automation+%E2%80%A2+Security;Build.+Break.+Test.+Fix.+Repeat.&font=Fira+Code&weight=600&center=true&width=820&height=55&color=58A6FF&vCenter=true&size=23&pause=1300&duration=2600"/>
 
 <br/>
 
+<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=8E2DE2&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/YOUR-USERNAME?style=for-the-badge&color=0072ff&labelColor=0d1117&logo=github"/>
 <img src="https://img.shields.io/badge/STATUS-ALL%20SYSTEMS%20BUILDING-2ea44f?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/LOCATION-SOUTH%20AFRICA-000000?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/FOCUS-ICT%20APPLICATION%20DEVELOPMENT-blueviolet?style=for-the-badge&labelColor=0d1117"/>
+
+<br/><br/>
+
+<img src="https://readme-quotes-api.vercel.app/api/?type=horizontal&theme=tokyonight" width="70%"/>
 
 </div>
 
 <br/>
 
-<!-- ============================================================ -->
-<!-- 01 / THE ENGINEER -->
-<!-- ============================================================ -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=0:00c6ff,100:8E2DE2&width=100%" width="100%"/>
 
-## 🧠 01 · The Engineer
+## 🧠 The Engineer
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
-**I build software around problems — not just technologies.**
+**I don't only ask "can I build it?" — I ask who it's for, what can break it, and how it survives contact with reality.**
 
-I'm an ICT Application Development student and software builder from South Africa. My interests sit at the intersection of several engineering disciplines:
+I'm an **ICT Application Development** student and software builder from South Africa, working at the intersection of:
 
-- ⚙️ **Software Engineering** — architecture, requirements, lifecycle thinking
-- 🤖 **AI Engineering** — LLMs, RAG, agents, intelligent workflows
-- 🧪 **Software Testing & Quality** — functional, negative, boundary, regression
-- 🔁 **Automation** — reducing repetitive work through tooling
-- 🔐 **Cybersecurity** — auth, RBAC, secure-by-design systems
-- 🗄️ **Database Systems** — modeling real operational domains
-- 🌍 **Real-World Information Systems** — software that understands its environment
+<img src="https://img.shields.io/badge/Software_Engineering-00c6ff?style=flat-square&labelColor=0d1117"/> <img src="https://img.shields.io/badge/AI_Engineering-8E2DE2?style=flat-square&labelColor=0d1117"/> <img src="https://img.shields.io/badge/Software_Testing-2ea44f?style=flat-square&labelColor=0d1117"/> <img src="https://img.shields.io/badge/Automation-F0883E?style=flat-square&labelColor=0d1117"/> <img src="https://img.shields.io/badge/Cybersecurity-F85149?style=flat-square&labelColor=0d1117"/> <img src="https://img.shields.io/badge/Database_Systems-3FB950?style=flat-square&labelColor=0d1117"/>
 
-I think in terms of the **full software lifecycle**:
-
-```mermaid
-flowchart LR
-    A[Problem] --> B[Requirements]
-    B --> C[Architecture]
-    C --> D[Development]
-    D --> E[Testing]
-    E --> F[Security]
-    F --> G[Deployment]
-    G --> H[Improvement]
-    H -.feedback.-> A
-
-    style A fill:#0d1117,stroke:#58A6FF,color:#fff
-    style H fill:#0d1117,stroke:#2ea44f,color:#fff
-```
+I think in full lifecycles, not isolated features — every system I touch moves through the same discipline:
 
 </td>
-<td width="40%" valign="top">
+<td width="42%" valign="top">
 
-**Engineering Lab — Current Focus**
-
-```text
-SOFTWARE ENGINEERING   ████████████████░░░░  ACTIVE
-SOFTWARE TESTING       ███████████████░░░░░  ACTIVE
-E-RANK                 █████████████████░░░  ACTIVE
-AUTOMATION             ██████████████░░░░░░  ACTIVE
-AI ENGINEERING         ████████████░░░░░░░░  LEARNING
-CYBERSECURITY          ███████████░░░░░░░░░  LEARNING
-CLOUD / DEVOPS         ████████░░░░░░░░░░░░  EXPLORING
+```mermaid
+mindmap
+  root((Engineering<br/>DNA))
+    Can it work?
+    Can it fail?
+    How do I break it?
+    Can the user recover?
+    Who should access it?
+    How do I secure it?
+    How does it scale?
+    What can be automated?
+    Where does AI add real value?
 ```
 
 </td>
 </tr>
 </table>
 
+```mermaid
+flowchart LR
+    A[💡 Problem] --> B[📋 Requirements] --> C[🏗️ Architecture] --> D[⌨️ Development] --> E[🧪 Testing] --> F[🔐 Security] --> G[🚀 Deployment] --> H[📈 Improvement]
+    H -.continuous feedback.-> A
+
+    classDef node fill:#0d1117,stroke:#00c6ff,color:#fff,stroke-width:2px
+    class A,B,C,D,E,F,G,H node
+```
+
 <br/>
 
-<!-- ============================================================ -->
-<!-- 02 / FLAGSHIP PROJECT -->
-<!-- ============================================================ -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=0:00c6ff,100:8E2DE2&width=100%" width="100%"/>
 
-## 🚕 02 · Flagship System — E-RANK
+## 🚕 Flagship System — E-RANK
 
 <div align="center">
-<img src="https://img.shields.io/badge/TRANSPORT%20OPERATIONS-DIGITAL%20INFRASTRUCTURE-orange?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/TRANSPORT%20OPERATIONS-DIGITAL%20INFRASTRUCTURE-F0883E?style=for-the-badge&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/STATUS-ACTIVE%20DEVELOPMENT-2ea44f?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/ORIGIN-ACADEMIC%20→%20INDEPENDENT-8E2DE2?style=for-the-badge&labelColor=0d1117"/>
 </div>
 
-> A **taxi-rank management and operations platform** designed around the South African minibus taxi industry — digitizing rank operations across five distinct roles: **Admin, Owner, Marshal, Driver, Passenger.**
-
-E-RANK began as an academic group project. I developed the core concept, product direction, and UX approach, while continuing to push it beyond its original academic scope.
+> A **taxi-rank management and operations platform** built around the real-world logic of South Africa's minibus taxi industry — digitizing operations across five distinct roles. I originated the concept, product direction, and UX approach, and continue pushing it beyond its original academic scope.
 
 ### The Five-Role Architecture
 
 ```mermaid
 flowchart TD
-    ADMIN[👑 ADMIN — System Control] --> OWNER[🏢 OWNER — Management]
-    ADMIN --> MARSHAL[🛡️ MARSHAL — Operations]
-    OWNER --> DRIVER[🚗 DRIVER — Trips / Vehicles]
+    ADMIN["👑 ADMIN<br/>System Control"] --> OWNER["🏢 OWNER<br/>Fleet Management"]
+    ADMIN --> MARSHAL["🛡️ MARSHAL<br/>Rank Operations"]
+    OWNER --> DRIVER["🚗 DRIVER<br/>Trips & Vehicles"]
     MARSHAL --> DRIVER
-    DRIVER --> PASSENGER[🧍 PASSENGER — Journeys]
+    DRIVER --> PASSENGER["🧍 PASSENGER<br/>Journeys"]
 
-    style ADMIN fill:#161b22,stroke:#58A6FF,color:#fff
-    style OWNER fill:#161b22,stroke:#F778BA,color:#fff
-    style MARSHAL fill:#161b22,stroke:#3FB950,color:#fff
-    style DRIVER fill:#161b22,stroke:#F0883E,color:#fff
-    style PASSENGER fill:#161b22,stroke:#A371F7,color:#fff
+    classDef admin fill:#0d1117,stroke:#58A6FF,color:#fff,stroke-width:2px
+    classDef owner fill:#0d1117,stroke:#F778BA,color:#fff,stroke-width:2px
+    classDef marshal fill:#0d1117,stroke:#3FB950,color:#fff,stroke-width:2px
+    classDef driver fill:#0d1117,stroke:#F0883E,color:#fff,stroke-width:2px
+    classDef passenger fill:#0d1117,stroke:#A371F7,color:#fff,stroke-width:2px
+    class ADMIN admin
+    class OWNER owner
+    class MARSHAL marshal
+    class DRIVER driver
+    class PASSENGER passenger
 ```
 
-### System in Motion
+### Live Operations Sequence
 
 ```mermaid
 sequenceDiagram
-    participant P as Passenger
-    participant R as Route Engine
-    participant T as Taxi Rank
-    participant M as Marshal
-    participant D as Driver
+    autonumber
+    participant P as 🧍 Passenger
+    participant R as 🗺️ Route Engine
+    participant Rk as 📍 Taxi Rank
+    participant M as 🛡️ Marshal
+    participant D as 🚗 Driver
 
     P->>R: Search route / fare
-    R->>T: Resolve nearest rank
-    D->>M: QR check-in + GPS verification
-    M->>M: Validate 20m geofence
-    M-->>D: Accept into queue
-    D->>P: Board passenger
-    D->>P: Live location + manifest
-    D->>D: SOS available throughout trip
+    R->>Rk: Resolve nearest rank
+    D->>M: QR check-in
+    M->>M: Verify 20m GPS geofence
+    alt Within geofence
+        M-->>D: ✅ Accepted into queue
+        D->>P: Board passenger
+        D->>P: Live location + digital manifest
+        Note over D,P: SOS available throughout trip
+    else Outside geofence
+        M-->>D: ❌ Rejected
+    end
+```
+
+### Passenger Journey
+
+```mermaid
+journey
+    title Passenger Experience on E-RANK
+    section Discover
+      Search route & fare: 5: Passenger
+      Select taxi: 4: Passenger
+    section Board
+      View manifest details: 5: Passenger
+      Enter next-of-kin: 3: Passenger
+    section Travel
+      Share journey with family: 5: Passenger
+      Track live GPS location: 5: Passenger
 ```
 
 <table>
-<tr>
-<th>🚦 Operations</th>
-<th>👥 Passengers</th>
-<th>🛡️ Safety</th>
-</tr>
+<tr><th>🚦 Operations</th><th>👥 Passengers</th><th>🛡️ Safety</th></tr>
 <tr>
 <td valign="top">
 
@@ -158,7 +167,7 @@ sequenceDiagram
 <td valign="top">
 
 - SOS alerts
-- GPS geofencing (20m radius)
+- 20m GPS geofencing
 - Role-based permissions
 - Authentication
 - Credential protection
@@ -168,31 +177,27 @@ sequenceDiagram
 </tr>
 </table>
 
-### Architecture
+### System Architecture
 
 ```mermaid
 flowchart TB
-    FE["⚛️ React Frontend<br/>(Craco + Tailwind + shadcn/ui)"]
-    API["⚡ FastAPI Backend<br/>(Python)"]
-    AUTH["🔐 Auth / RBAC<br/>bcrypt + JWT"]
-    OPS["📋 Operations<br/>Queues · Routes · Trips"]
-    AI["🤖 AI Assistant<br/>+ Web Speech API"]
-    DB["🍃 MongoDB Atlas"]
-    OUT["📊 Reports · Analytics · Data"]
-
-    FE -- "REST / HTTP" --> API
-    API --> AUTH
-    API --> OPS
-    API --> AI
-    AUTH --> DB
+    FE["⚛️ React Frontend<br/>Craco · Tailwind · shadcn/ui"] -- REST/HTTP --> API["⚡ FastAPI Backend<br/>Python"]
+    API --> AUTH["🔐 Auth / RBAC<br/>bcrypt + JWT"]
+    API --> OPS["📋 Operations<br/>Queues · Routes · Trips"]
+    API --> AI["🤖 AI Assistant<br/>+ Web Speech API"]
+    AUTH --> DB[("🍃 MongoDB Atlas")]
     OPS --> DB
     AI --> DB
-    DB --> OUT
+    DB --> OUT["📊 Reports · Analytics"]
 
-    style FE fill:#0d1117,stroke:#61DAFB,color:#fff
-    style API fill:#0d1117,stroke:#009485,color:#fff
-    style DB fill:#0d1117,stroke:#47A248,color:#fff
-    style AI fill:#0d1117,stroke:#A371F7,color:#fff
+    classDef fe fill:#0d1117,stroke:#61DAFB,color:#fff,stroke-width:2px
+    classDef api fill:#0d1117,stroke:#009485,color:#fff,stroke-width:2px
+    classDef db fill:#0d1117,stroke:#47A248,color:#fff,stroke-width:2px
+    classDef ai fill:#0d1117,stroke:#A371F7,color:#fff,stroke-width:2px
+    class FE fe
+    class API api
+    class DB db
+    class AI ai
 ```
 
 <div align="center">
@@ -212,56 +217,41 @@ flowchart TB
 
 </div>
 
-### Security Engineering
+### Security Layer
 
 <div align="center">
 
-![bcrypt](https://img.shields.io/badge/PASSWORDS-bcrypt-red?style=flat-square&labelColor=0d1117)
-![JWT](https://img.shields.io/badge/AUTH-JWT-blue?style=flat-square&labelColor=0d1117)
-![RBAC](https://img.shields.io/badge/AUTHORIZATION-RBAC-purple?style=flat-square&labelColor=0d1117)
-![GPS](https://img.shields.io/badge/LOCATION-GPS%20GEOFENCE-orange?style=flat-square&labelColor=0d1117)
-![Queue](https://img.shields.io/badge/QUEUE-DUPLICATE%20PREVENTION-yellow?style=flat-square&labelColor=0d1117)
-![Privacy](https://img.shields.io/badge/PRIVACY-LOCATION%20CONSENT-green?style=flat-square&labelColor=0d1117)
+![bcrypt](https://img.shields.io/badge/PASSWORDS-bcrypt-F85149?style=flat-square&labelColor=0d1117)
+![JWT](https://img.shields.io/badge/AUTH-JWT-58A6FF?style=flat-square&labelColor=0d1117)
+![RBAC](https://img.shields.io/badge/AUTHORIZATION-RBAC-A371F7?style=flat-square&labelColor=0d1117)
+![GPS](https://img.shields.io/badge/LOCATION-GPS%20GEOFENCE-F0883E?style=flat-square&labelColor=0d1117)
+![Queue](https://img.shields.io/badge/QUEUE-DUPLICATE%20PREVENTION-D29922?style=flat-square&labelColor=0d1117)
+![Privacy](https://img.shields.io/badge/PRIVACY-LOCATION%20CONSENT-3FB950?style=flat-square&labelColor=0d1117)
 
 </div>
 
-### Revenue & Reporting Flow
+### Revenue Pipeline
 
 ```mermaid
 flowchart LR
-    A[Passengers] --> B[Manifest]
-    B --> C[Trip]
-    C --> D[Passenger Count / Seats]
-    D --> E[Fare Calculation]
-    E --> F[Revenue]
-    F --> G[Report]
-    G --> H["Excel Export (openpyxl)"]
+    A[Passengers] --> B[Manifest] --> C[Trip] --> D[Seats / Count] --> E[Fare Calc] --> F[Revenue] --> G[Report] --> H["📥 Excel Export"]
+    classDef n fill:#0d1117,stroke:#00c6ff,color:#fff
+    class A,B,C,D,E,F,G,H n
 ```
 
 <br/>
 
-<!-- ============================================================ -->
-<!-- 03 / QUALITY ENGINEERING -->
-<!-- ============================================================ -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=0:00c6ff,100:8E2DE2&width=100%" width="100%"/>
 
-## 🧪 03 · Quality Engineering
+## 🧪 Quality Engineering
 
 **BUILD → BREAK → TEST → FIX → REPEAT**
 
-Testing isn't an afterthought — it's part of how I think about design from day one.
-
 ```mermaid
-flowchart TD
-    Q1[Can it work?] --> Q2[Can it fail?]
-    Q2 --> Q3[How can I make it fail?]
-    Q3 --> Q4[What happens when it fails?]
-    Q4 --> Q5[Can the user recover?]
-    Q5 --> Q6[Can another user access it?]
-    Q6 --> Q7[What happens at the edge?]
-    Q7 --> Q8[Can we automate the test?]
-
-    style Q1 fill:#0d1117,stroke:#58A6FF,color:#fff
-    style Q8 fill:#0d1117,stroke:#2ea44f,color:#fff
+flowchart LR
+    Q1[Can it work?] --> Q2[Can it fail?] --> Q3[How can I make it fail?] --> Q4[What happens when it fails?] --> Q5[Can the user recover?] --> Q6[Can another user access it?] --> Q7[What happens at the edge?] --> Q8[Can we automate the test?]
+    classDef n fill:#0d1117,stroke:#3FB950,color:#fff
+    class Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8 n
 ```
 
 <div align="center">
@@ -270,82 +260,73 @@ flowchart TD
 
 </div>
 
-E-RANK's repository includes dedicated `tests/`, `test_reports/`, and an `eRANK_Test_Cases.xlsx` artifact — testing is treated as a first-class engineering deliverable, not a checkbox.
+E-RANK ships with dedicated `tests/`, `test_reports/`, and an `eRANK_Test_Cases.xlsx` artifact — testing is a first-class deliverable, not a checkbox.
 
 <br/>
 
-<!-- ============================================================ -->
-<!-- 04 / AI ENGINEERING LAB -->
-<!-- ============================================================ -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=0:00c6ff,100:8E2DE2&width=100%" width="100%"/>
 
-## 🤖 04 · AI Engineering Lab
+## 🤖 AI Engineering Lab
 
 ```mermaid
 flowchart TD
-    A[Python + Data + APIs] --> B[Machine Learning]
-    B --> C[LLMs]
-    C --> D[RAG]
-    C --> E[Agents]
-    D --> F[AI Applications]
+    A["🐍 Python + Data + APIs"] --> B["🧮 Machine Learning"] --> C["🧠 LLMs"]
+    C --> D["📚 RAG"]
+    C --> E["🕹️ Agents"]
+    D --> F["🏭 AI Applications"]
     E --> F
-    F --> G[Production Systems]
+    F --> G["🚀 Production Systems"]
 
-    style A fill:#0d1117,stroke:#F0883E,color:#fff
-    style G fill:#0d1117,stroke:#2ea44f,color:#fff
+    classDef n fill:#0d1117,stroke:#A371F7,color:#fff,stroke-width:2px
+    class A,B,C,D,E,F,G n
 ```
 
 **Current exploration:** LLM applications · AI agents · RAG systems · AI-assisted automation · intelligent APIs · voice interfaces · production AI architecture.
 
 <br/>
 
-<!-- ============================================================ -->
-<!-- 05 / PROJECT LAB -->
-<!-- ============================================================ -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=0:00c6ff,100:8E2DE2&width=100%" width="100%"/>
 
-## 📁 05 · Project Lab
+## 📁 Project Lab
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🚕 E-RANK
 **Transport Technology**
 Taxi rank management and operations platform.
 `React` `FastAPI` `MongoDB` `JWT` `GPS` `QR` `AI`
-
 ![Status](https://img.shields.io/badge/STATUS-ACTIVE%20DEVELOPMENT-2ea44f?style=flat-square&labelColor=0d1117)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 AI Trading System
 **AI / Automation**
 Experimental automated market-analysis and decision-support project.
 `Python` `Automation` `Data`
-
-![Status](https://img.shields.io/badge/STATUS-EXPLORING-yellow?style=flat-square&labelColor=0d1117)
+![Status](https://img.shields.io/badge/STATUS-EXPLORING-D29922?style=flat-square&labelColor=0d1117)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🍽️ Dilostofong RMS
 **Business Systems**
 Restaurant management system.
 `Java` `MySQL` `NetBeans`
-
-![Status](https://img.shields.io/badge/STATUS-BUILT-blue?style=flat-square&labelColor=0d1117)
+![Status](https://img.shields.io/badge/STATUS-BUILT-58A6FF?style=flat-square&labelColor=0d1117)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🏠 Student Accommodation
 **Information Systems**
 A platform concept for helping students discover accommodation.
 `Web` `Database` `Systems`
-
-![Status](https://img.shields.io/badge/STATUS-EXPLORING-yellow?style=flat-square&labelColor=0d1117)
+![Status](https://img.shields.io/badge/STATUS-EXPLORING-D29922?style=flat-square&labelColor=0d1117)
 
 </td>
 </tr>
@@ -353,106 +334,120 @@ A platform concept for helping students discover accommodation.
 
 <br/>
 
-<!-- ============================================================ -->
-<!-- 06 / TECHNOLOGY MATRIX -->
-<!-- ============================================================ -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=0:00c6ff,100:8E2DE2&width=100%" width="100%"/>
 
-## 🛠️ 06 · Technology Matrix
+## 🛠️ Technology Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,react,fastapi,mongodb,java,mysql,tailwind,html,css,git,github,vscode,figma,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,js,ts,react,fastapi,mongodb,java,mysql,tailwind,html,css,git,github,vscode,figma,postman,docker&theme=dark&perline=9" />
 
 </div>
 
+```mermaid
+pie showData
+    title Where My Engineering Time Goes
+    "Software Engineering" : 25
+    "Testing & QA" : 20
+    "E-RANK Development" : 20
+    "AI Engineering" : 15
+    "Automation" : 10
+    "Security & Cloud" : 10
+```
+
 <br/>
 
-<!-- ============================================================ -->
-<!-- 07 / GITHUB TELEMETRY -->
-<!-- ============================================================ -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=0:00c6ff,100:8E2DE2&width=100%" width="100%"/>
 
-## 📡 07 · GitHub Telemetry
+## 📡 GitHub Telemetry
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="30%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="30%"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" width="65%"/>
+<img src="https://streak-stats.demolab.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true&background=0D1117" width="65%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="90%"/>
 
 <br/><br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
+<br/><br/>
+
+### 🌆 3D Contribution Skyline
+
+<img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+
 <br/>
 
-### Contribution Graph (animated)
+### 🐍 The Snake Eats My Commits
 
 <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
-> **Note:** The stats/streak/trophy widgets and the snake contribution graph above pull live data from GitHub the moment your README is viewed — they render automatically once you replace `YOUR-USERNAME` and set up the tiny "snake" GitHub Action below. No JavaScript required; GitHub renders them as dynamic SVGs.
+> **Setup required (one-time, ~10 min total):** these widgets pull *live* data straight from your GitHub — none of it is faked. Full steps are in the checklist at the bottom.
 
 <br/>
 
-<!-- ============================================================ -->
-<!-- 08 / ROADMAP -->
-<!-- ============================================================ -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=0:00c6ff,100:8E2DE2&width=100%" width="100%"/>
 
-## 🗺️ 08 · The Road Ahead
+## 🗺️ The Road Ahead
 
 ```mermaid
-flowchart LR
-    A[ICT Application Dev] --> B[Testing]
-    A --> C[E-RANK]
-    A --> D[AI]
-    B --> E[Automation]
-    C --> F[Expansion]
-    D --> G[Agents]
-    E --> H[Production Systems]
-    F --> H
-    G --> H
-    H --> I[Cloud / DevOps]
-    I --> J[AI Engineering]
-    J --> K[Software Quality]
-
-    style A fill:#0d1117,stroke:#58A6FF,color:#fff
-    style K fill:#0d1117,stroke:#2ea44f,color:#fff
+gantt
+    title Engineering Trajectory
+    dateFormat YYYY
+    axisFormat %Y
+    section Foundations
+    Software Engineering        :done, 2023, 2025
+    section Growth
+    Software Testing            :active, 2024, 2026
+    E-RANK Expansion            :active, 2024, 2027
+    section Frontier
+    AI Engineering              :2025, 2027
+    Cloud / DevOps               :2026, 2028
+    section Mastery
+    Production Systems           :2027, 2029
+    Software Quality Leadership  :2028, 2030
 ```
 
-**My direction:** Software Engineering → Software Testing → Test Automation → AI Engineering → Production Systems → Intelligent Software
+**My direction:** Software Engineering → Software Testing → Test Automation → AI Engineering → Production Systems → Intelligent Software.
 
 <br/>
 
-<!-- ============================================================ -->
-<!-- 09 / BUILD PHILOSOPHY -->
-<!-- ============================================================ -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=0:00c6ff,100:8E2DE2&width=100%" width="100%"/>
 
-## 📜 09 · Build Philosophy
+## 📜 Build Philosophy
 
-<table>
-<tr><td>01</td><td>Real problems over toy problems.</td></tr>
-<tr><td>02</td><td>Understand the user before writing the code.</td></tr>
-<tr><td>03</td><td>Architecture before complexity.</td></tr>
-<tr><td>04</td><td>Security from the beginning.</td></tr>
-<tr><td>05</td><td>Test what you build.</td></tr>
-<tr><td>06</td><td>Automate repetitive work.</td></tr>
-<tr><td>07</td><td>Use AI where it creates real value.</td></tr>
-<tr><td>08</td><td>Learn the fundamentals behind the tools.</td></tr>
-<tr><td>09</td><td>Build → Break → Learn → Improve.</td></tr>
-<tr><td>10</td><td>Every project should teach something.</td></tr>
-</table>
+<div align="center">
+
+| # | Principle |
+|:---:|---|
+| 01 | Real problems over toy problems |
+| 02 | Understand the user before writing the code |
+| 03 | Architecture before complexity |
+| 04 | Security from the beginning |
+| 05 | Test what you build |
+| 06 | Automate repetitive work |
+| 07 | Use AI where it creates real value |
+| 08 | Learn the fundamentals behind the tools |
+| 09 | Build → Break → Learn → Improve |
+| 10 | Every project should teach something |
+
+</div>
 
 <br/>
 
-<!-- ============================================================ -->
-<!-- 10 / CONNECT -->
-<!-- ============================================================ -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=0:00c6ff,100:8E2DE2&width=100%" width="100%"/>
 
-## 📫 10 · Connect
+## 📫 Connect
 
 <div align="center">
 
@@ -466,6 +461,22 @@ flowchart LR
 
 FROM SOUTH AFRICA 🇿🇦 — BUILDING TOWARD THE FUTURE.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8E2DE2,50:0072ff,100:00c6ff&height=180&section=footer" width="100%"/>
 
 </div>
+
+<br/>
+
+<details>
+<summary><b>⚙️ Setup checklist — do this before pushing (10 minutes, one time)</b></summary>
+
+<br/>
+
+1. **Repo name:** create a repo named *exactly* your GitHub username (e.g. `kholofelo/kholofelo`) — that's what turns a README into your GitHub profile page.
+2. **Find & replace:** swap every `YOUR-USERNAME`, `YOUR-LINKEDIN`, and `YOUR-EMAIL` in this file for your real ones.
+3. **Snake contribution graph:** add the free [Platane/snk](https://github.com/Platane/snk) GitHub Action to this repo — it generates the `output/github-contribution-grid-snake-dark.svg` this file links to.
+4. **3D contribution skyline:** add the free [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) Action — it generates the `profile-3d-contrib` branch and SVG this file links to.
+5. **Mermaid diagrams:** render natively on github.com — no setup needed, just push.
+6. Everything else (stats, streak, trophies, activity graph, skill icons, badges, view counter) is a live external image — it updates itself automatically, nothing to maintain.
+
+</details>
