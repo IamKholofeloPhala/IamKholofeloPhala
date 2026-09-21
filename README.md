@@ -1,72 +1,101 @@
 <div align="center">
 
-# `KH O L O F E L O  P H A L A K A T S H E L A`
-
-### SOFTWARE ENGINEERING · SYSTEMS · AI · AUTOMATION · QUALITY
-
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=Designing+systems+for+real-world+problems;Building+E-RANK+%7C+Taxi+Rank+Operations+Platform;Software+Development+%7C+Testing+%7C+Automation;Exploring+AI+Engineering+%7C+Agents+%7C+RAG;From+idea+%E2%86%92+architecture+%E2%86%92+implementation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070A,50:00F7FF,100:05070A&height=220&section=header&text=KHOLOFELO%20PHALAKATSHELA&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%E2%80%A2%20AI%20%E2%80%A2%20QUALITY%20%E2%80%A2%20SYSTEMS&descAlignY=62&descSize=16&descColor=00F7FF" />
 
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=650&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+systems+for+real-world+problems;Engineering+E-RANK+%E2%80%94+Transport+Operations+Platform;Software+Testing+%7C+Automation+%7C+AI+Engineering;Design+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Improve;South+Africa+%F0%9F%87%BF%F0%9F%87%A6" />
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=IamKholofeloPhala&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/IamKholofeloPhala?style=for-the-badge&label=FOLLOWERS&color=111827" />
+<img src="https://img.shields.io/github/followers/IamKholofeloPhala?style=for-the-badge&label=FOLLOWERS&color=0A0F16&logo=github" />
 &nbsp;
-<img src="https://img.shields.io/github/stars/IamKholofeloPhala?style=for-the-badge&label=STARS&color=111827" />
+<img src="https://img.shields.io/github/stars/IamKholofeloPhala?style=for-the-badge&label=STARS&color=0A0F16&logo=github" />
 
 <br><br>
 
-`[ SYSTEM STATUS: ONLINE ]` · `[ SOUTH AFRICA 🇿🇦 ]` · `[ BUILDING ]`
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║                     SYSTEM STATUS                            ║
+║                                                              ║
+║                  ● ENGINEERING ONLINE                        ║
+║                                                              ║
+║       SOFTWARE  •  AI  •  TESTING  •  AUTOMATION             ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-# `01 / ENGINEER PROFILE`
+<div align="center">
+
+# `01 / THE ENGINEER`
+
+### I BUILD SOFTWARE AROUND PROBLEMS — NOT JUST TECHNOLOGIES.
+
+</div>
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
-## Hello, I'm Kholofelo.
+I'm **Kholofelo Phalakatshela**, an ICT Application Development student and software builder from South Africa.
 
-I'm an **ICT Application Development** student and software builder interested in the engineering of systems that solve practical problems.
+My interests sit where several engineering disciplines meet:
 
-My interests sit at the intersection of:
+**Software Engineering**
+**AI Engineering**
+**Software Testing & Quality**
+**Automation**
+**Cybersecurity**
+**Database Systems**
+**Real-world Information Systems**
 
-* **Software Engineering**
-* **AI Engineering**
-* **Software Testing & Quality**
-* **Automation**
-* **Cybersecurity**
-* **Database Systems**
-* **Real-world Information Systems**
+I am particularly interested in understanding the complete lifecycle of software:
 
-I don't want to only learn technologies.
-
-I want to understand **how systems are designed, built, tested, secured and eventually used by real people.**
+```text
+PROBLEM
+   ↓
+REQUIREMENTS
+   ↓
+ARCHITECTURE
+   ↓
+DEVELOPMENT
+   ↓
+TESTING
+   ↓
+SECURITY
+   ↓
+DEPLOYMENT
+   ↓
+IMPROVEMENT
+```
 
 </td>
 
-<td width="40%" align="center">
+<td width="42%" align="center">
 
 ```text
-┌──────────────────────────┐
-│     ENGINEERING CORE     │
-├──────────────────────────┤
-│                          │
-│  SOFTWARE       ████████ │
-│  SYSTEMS        ███████░ │
-│  DATABASES      ███████░ │
-│  TESTING        ██████░░ │
-│  AUTOMATION     ██████░░ │
-│  AI             █████░░░ │
-│  SECURITY       █████░░░ │
-│                          │
-│  STATUS: BUILDING        │
-└──────────────────────────┘
+┌──────────────────────────────┐
+│                              │
+│      KHOLOFELO // LAB        │
+│                              │
+│  SOFTWARE       ████████░░   │
+│  SYSTEMS        ████████░░   │
+│  TESTING        ███████░░░   │
+│  DATABASES      ███████░░░   │
+│  AUTOMATION     ██████░░░░   │
+│  AI             ██████░░░░   │
+│  SECURITY       ██████░░░░   │
+│                              │
+│  STATUS: BUILDING            │
+│                              │
+└──────────────────────────────┘
 ```
 
 </td>
@@ -75,334 +104,610 @@ I want to understand **how systems are designed, built, tested, secured and even
 
 ---
 
-# `02 / FLAGSHIP SYSTEM`
-
 <div align="center">
+
+# `02 / FLAGSHIP SYSTEM`
 
 # 🚕 E-RANK
 
-### **Taxi Rank Management & Operations Platform**
+### `TRANSPORT OPERATIONS • DIGITAL INFRASTRUCTURE • SOUTH AFRICA`
 
-`SOUTH AFRICAN TRANSPORT TECHNOLOGY`
+</div>
+
+<p align="center">
+
+<a href="https://github.com/SiyaJNdzobs/NPRT63PMPSOLUTIONS">
+<img src="https://img.shields.io/badge/SOURCE-E--RANK-00F7FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://erank.onrender.com">
+<img src="https://img.shields.io/badge/LIVE-APPLICATION-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</p>
+
+<br>
+
+<table>
+<tr>
+<td>
+
+## THE IDEA
+
+**E-RANK** is a taxi-rank management and operations platform designed around the South African minibus taxi industry.
+
+The system digitizes rank operations across five distinct roles:
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+| `ADMIN` |   `OWNER`  |  `MARSHAL` |  `DRIVER`  | `PASSENGER` |
+| :-----: | :--------: | :--------: | :--------: | :---------: |
+|  SYSTEM |  VEHICLES  |    RANK    |    TRIPS   |   JOURNEYS  |
+| CONTROL | MANAGEMENT | OPERATIONS | OPERATIONS |   SERVICES  |
 
 </div>
 
 <br>
 
-> **E-RANK is a digital taxi-rank management and operations platform designed around the South African minibus taxi industry.**
-
-The system aims to digitize and organize the daily operational activities of a taxi rank through role-based functionality for:
-
 ```text
-ADMINISTRATOR
-     │
-     ├──────── OWNER
-     │
-     ├──────── MARSHAL
-     │
-     ├──────── DRIVER
-     │
-     └──────── PASSENGER
-```
-
-Instead of treating a taxi rank as simply a physical location, E-RANK approaches it as an **operational information system**.
-
-### The problem
-
-Traditional rank operations can involve multiple people, vehicles, queues, routes, schedules, communication channels and administrative processes.
-
-E-RANK explores how these processes can be brought into a structured digital environment.
-
-### The vision
-
-```text
-             PHYSICAL TAXI RANK
-                     │
-                     ▼
-             ┌───────────────┐
-             │    E-RANK     │
-             │ DIGITAL CORE  │
-             └───────┬───────┘
-                     │
-       ┌─────────────┼─────────────┐
-       ▼             ▼             ▼
-    PEOPLE         VEHICLES      OPERATIONS
-       │             │             │
-       └─────────────┼─────────────┘
-                     ▼
-               DATA + CONTROL
-                     │
-                     ▼
-              BETTER VISIBILITY
+                         ┌─────────────────────┐
+                         │       E-RANK        │
+                         │    DIGITAL CORE     │
+                         └──────────┬──────────┘
+                                    │
+              ┌─────────────────────┼─────────────────────┐
+              │                     │                     │
+              ▼                     ▼                     ▼
+          PEOPLE                OPERATIONS             DATA
+              │                     │                     │
+        ┌─────┴─────┐       ┌───────┼───────┐      ┌────┴────┐
+        │           │       │       │       │      │         │
+      ROLES       USERS    QUEUES  ROUTES  TRIPS  REPORTS  ANALYTICS
+        │           │       │       │       │      │         │
+        └───────────┴───────┴───────┴───────┴──────┴─────────┘
+                                    │
+                                    ▼
+                              E-RANK DATA
 ```
 
 ---
 
-# `03 / WHY E-RANK MATTERS`
+# `03 / WHY E-RANK`
 
-E-RANK is particularly important to me because it is not a project created only to demonstrate programming syntax.
+<div align="center">
 
-It started from a **real-world problem domain**.
+### SOFTWARE SHOULD UNDERSTAND THE ENVIRONMENT IT OPERATES IN.
 
-The project explores questions such as:
+</div>
 
-* How can taxi-rank operations be digitized?
-* How should different users interact with one system?
-* How should permissions be separated between roles?
-* How can vehicles and drivers be managed?
-* How can operational information be structured?
-* How should passengers interact with rank information?
-* How can a system remain maintainable as it grows?
-* How can software engineering principles be applied to a local problem?
+E-RANK was created around a real operational domain rather than an abstract demonstration problem.
 
-That makes E-RANK more than an application.
+The system explores how software can coordinate:
 
-It is an exploration of **how software can model a real operational environment.**
+* People
+* Vehicles
+* Taxi ranks
+* Routes
+* Queues
+* Passenger journeys
+* Fares
+* Operational data
+* Emergency situations
+* Location information
+
+The project began as an academic group project, but **the E-RANK concept and product direction are particularly important to my own engineering journey**.
+
+I developed the concept and helped shape how the system should work, what it should contain and how the user experience should be approached, while other members contributed to the implementation as part of the academic team.
+
+My goal is to continue taking the concept beyond the original academic scope.
 
 ---
 
-# `04 / FIVE ROLE ARCHITECTURE`
+# `04 / E-RANK // SYSTEM CAPABILITIES`
+
+<div align="center">
+
+### `THE SYSTEM IS MORE THAN CRUD.`
+
+</div>
 
 <table>
 <tr>
-<td width="20%" align="center">
+<td width="33%" valign="top">
 
-### 👨🏾‍💼
+### 🚦 OPERATIONS
 
-**ADMIN**
-
-System administration
-
-</td>
-
-<td width="20%" align="center">
-
-### 🚐
-
-**OWNER**
-
-Vehicle & business management
+* Live taxi queues
+* Rank management
+* QR rank check-ins
+* GPS verification
+* Driver operations
+* Route management
+* Fare management
 
 </td>
 
-<td width="20%" align="center">
+<td width="33%" valign="top">
 
-### 🦺
+### 👥 PASSENGERS
 
-**MARSHAL**
-
-Rank operations
-
-</td>
-
-<td width="20%" align="center">
-
-### 🚖
-
-**DRIVER**
-
-Driver operations
+* Route discovery
+* Fare information
+* Digital manifests
+* Next-of-kin details
+* Journey sharing
+* Live location sharing
+* Public rank information
 
 </td>
 
-<td width="20%" align="center">
+<td width="33%" valign="top">
 
-### 👤
+### 🛡️ SAFETY
 
-**PASSENGER**
-
-Passenger services
+* SOS alerts
+* Location information
+* GPS geofencing
+* Role permissions
+* Authentication
+* Credential protection
+* Queue integrity
 
 </td>
 </tr>
 </table>
 
-### Role-based thinking
+---
 
-The five-role model is one of the central ideas behind E-RANK.
+# `05 / THE FIVE-SYSTEM MODEL`
 
-Different users should not simply receive different screens.
-
-They should have different:
+<div align="center">
 
 ```text
-IDENTITY
-   ↓
-PERMISSIONS
-   ↓
-RESPONSIBILITIES
-   ↓
-WORKFLOWS
-   ↓
-DATA ACCESS
+                 ┌─────────────────────┐
+                 │        ADMIN        │
+                 │   SYSTEM CONTROL    │
+                 └──────────┬──────────┘
+                            │
+              ┌─────────────┴─────────────┐
+              │                           │
+              ▼                           ▼
+      ┌───────────────┐           ┌───────────────┐
+      │     OWNER     │           │    MARSHAL    │
+      │  MANAGEMENT   │           │   OPERATIONS  │
+      └───────┬───────┘           └───────┬───────┘
+              │                           │
+              └─────────────┬─────────────┘
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │    DRIVER     │
+                    │   TRIPS /     │
+                    │   VEHICLES    │
+                    └───────┬───────┘
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │   PASSENGER   │
+                    │   JOURNEYS    │
+                    └───────────────┘
 ```
 
-This creates a foundation for implementing **role-based access control (RBAC)** and more structured system security.
+</div>
+
+The five-role architecture is one of the most important design ideas in E-RANK.
+
+Different users require different:
+
+`IDENTITIES` → `PERMISSIONS` → `RESPONSIBILITIES` → `WORKFLOWS` → `DATA ACCESS`
+
+This creates the foundation for **role-based access control**.
 
 ---
 
-# `05 / E-RANK SYSTEM MODEL`
+# `06 / SYSTEM IN MOTION`
+
+<div align="center">
 
 ```text
-                         ┌──────────────────┐
-                         │      E-RANK      │
-                         │  SYSTEM CORE     │
-                         └────────┬─────────┘
-                                  │
-             ┌────────────────────┼────────────────────┐
-             │                    │                    │
-             ▼                    ▼                    ▼
-       USER MANAGEMENT       OPERATIONS          TRANSPORT
-             │                    │                    │
-       ┌─────┴─────┐        ┌─────┴─────┐       ┌────┴────┐
-       │           │        │           │       │         │
-     ROLES      ACCESS    RANK         QUEUES  DRIVERS   VEHICLES
-                         MANAGEMENT
-             │                    │                    │
-             └────────────────────┼────────────────────┘
-                                  │
-                                  ▼
-                         ┌──────────────────┐
-                         │     DATABASE     │
-                         └────────┬─────────┘
-                                  │
-                                  ▼
-                         REPORTING / DATA
+PASSENGER
+    │
+    │ route / fare search
+    ▼
+┌───────────────┐
+│ ROUTE ENGINE  │
+└───────┬───────┘
+        │
+        ▼
+┌───────────────┐
+│  TAXI RANK    │
+└───────┬───────┘
+        │
+        │ QR + GPS
+        ▼
+┌───────────────┐
+│    MARSHAL    │
+│ QUEUE CONTROL │
+└───────┬───────┘
+        │
+        ▼
+┌───────────────┐
+│    DRIVER     │
+│   TRIP FLOW   │
+└───────┬───────┘
+        │
+        ├──────────────► LIVE LOCATION
+        │
+        ├──────────────► PASSENGER MANIFEST
+        │
+        ├──────────────► REVENUE
+        │
+        └──────────────► SOS
 ```
 
----
-
-# `06 / MY ROLE IN E-RANK`
-
-E-RANK originated from my own project concept and system vision.
-
-During its development as an academic group project, other group members contributed to the implementation and project requirements.
-
-I also contributed by driving the **concept, system direction, functionality, design thinking and technical approach**, while sharing knowledge with the team about how the system should work and how the product should evolve.
-
-I consider E-RANK one of the projects that best represents how I approach software:
-
-> **Start with a problem. Understand the users. Design the system. Build it. Test it. Improve it.**
-
-The academic version is only the beginning.
-
-My intention is to continue developing E-RANK beyond the original coursework into a more complete transportation technology platform.
+</div>
 
 ---
 
-# `07 / E-RANK — THE NEXT PHASE`
+# `07 / ARCHITECTURE`
 
-The long-term direction is to evolve E-RANK from an academic application into a more mature system.
-
-### Potential development areas
+<div align="center">
 
 ```text
-[01] Authentication & RBAC
-        ↓
-[02] Driver Management
-        ↓
-[03] Vehicle Management
-        ↓
-[04] Rank & Route Management
-        ↓
-[05] Queue Management
-        ↓
-[06] Passenger Services
-        ↓
-[07] Notifications
-        ↓
-[08] Analytics & Reporting
-        ↓
-[09] API Architecture
-        ↓
-[10] Testing & Quality Engineering
-        ↓
-[11] Deployment & Infrastructure
-        ↓
-[12] Intelligent / AI-assisted Features
+                         E - R A N K
+                             │
+                             ▼
+                 ┌─────────────────────┐
+                 │        REACT        │
+                 │      FRONTEND       │
+                 └──────────┬──────────┘
+                            │
+                     REST / HTTP
+                            │
+                            ▼
+                 ┌─────────────────────┐
+                 │       FASTAPI       │
+                 │    PYTHON BACKEND   │
+                 └──────────┬──────────┘
+                            │
+          ┌─────────────────┼─────────────────┐
+          │                 │                 │
+          ▼                 ▼                 ▼
+     AUTH / RBAC       OPERATIONS            AI
+          │                 │                 │
+          │          ┌──────┼──────┐          │
+          │          │      │      │          │
+          │        QUEUES  ROUTES  TRIPS   ASSISTANT
+          │          │      │      │          │
+          └──────────┴──────┴──────┴──────────┘
+                            │
+                            ▼
+                   ┌─────────────────┐
+                   │  MONGODB ATLAS  │
+                   └─────────────────┘
+                            │
+              ┌─────────────┼─────────────┐
+              ▼             ▼             ▼
+           REPORTS       ANALYTICS       DATA
 ```
 
-The goal is not simply to add features.
+</div>
 
-The goal is to progressively improve:
+### Technology architecture
 
-**architecture → reliability → security → usability → scalability → intelligence**
+| Layer          | Technology                    |
+| -------------- | ----------------------------- |
+| Frontend       | React + Craco                 |
+| UI             | Tailwind CSS + shadcn/ui      |
+| Backend        | FastAPI / Python              |
+| Database       | MongoDB Atlas                 |
+| Authentication | bcrypt + PyJWT                |
+| Maps           | Google Maps                   |
+| Location       | Browser Geolocation API       |
+| QR             | HTML5 QR Code                 |
+| AI / Voice     | AI Assistant + Web Speech API |
+| Reporting      | openpyxl                      |
+| Deployment     | Render                        |
 
 ---
 
-# `08 / ENGINEERING MINDSET`
+# `08 / SECURITY ENGINEERING`
 
-I am particularly interested in the engineering process behind software.
+<div align="center">
 
 ```text
-                 PROBLEM
-                    │
-                    ▼
-             REQUIREMENTS
-                    │
-                    ▼
-               ANALYSIS
-                    │
-                    ▼
-              ARCHITECTURE
-                    │
-                    ▼
-              DEVELOPMENT
-                    │
-                    ▼
-                TESTING
-                    │
-                    ▼
-                SECURITY
-                    │
-                    ▼
-               DEPLOYMENT
-                    │
-                    ▼
-              MONITORING
-                    │
-                    ▼
-              ITERATION
+╔════════════════════════════════════════════════════╗
+║                 SECURITY LAYER                     ║
+╠════════════════════════════════════════════════════╣
+║                                                    ║
+║  🔐 PASSWORDS          bcrypt                      ║
+║  🎫 AUTHENTICATION     JWT                         ║
+║  👤 AUTHORIZATION      RBAC                        ║
+║  📍 LOCATION           GPS GEO-FENCE               ║
+║  🚕 QUEUE INTEGRITY    DUPLICATE PREVENTION       ║
+║  📡 PRIVACY            LOCATION CONSENT            ║
+║  🔑 CREDENTIALS        PROTECTED                   ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
 ```
 
-This is the direction I want my engineering career to follow.
+</div>
+
+Security features documented in the system include:
+
+* bcrypt password/PIN hashing
+* JWT-based authenticated requests
+* Role-based access control
+* First-login credential reset
+* GPS geo-fencing for driver QR check-ins
+* Duplicate active queue prevention
+* Passenger location consent
+* Protection of sensitive credentials
 
 ---
 
-# `09 / QUALITY ENGINEERING`
+# `09 / LOCATION + QR`
 
-One of my career goals is to become a **Software Tester / Test Engineer**.
-
-I don't see testing as something that happens after development.
-
-I see it as part of the engineering process.
-
-### Current testing interests
+One of the more interesting parts of E-RANK is the combination of **physical-world operations with digital verification**.
 
 ```text
-TEST ENGINEERING
-
-├── Requirements Analysis
-├── Test Case Design
-├── Functional Testing
-├── Regression Testing
-├── Integration Testing
-├── System Testing
-├── API Testing
-├── UI Testing
-├── Database Testing
-├── Boundary Testing
-├── Negative Testing
-├── Bug Investigation
-├── Test Automation
-└── CI/CD Quality Gates
+                    TAXI RANK
+                        │
+                  ┌─────▼─────┐
+                  │    QR     │
+                  │ CHECK-IN  │
+                  └─────┬─────┘
+                        │
+                        ▼
+                 GPS VERIFICATION
+                        │
+                 ┌──────┴──────┐
+                 │             │
+             WITHIN AREA    OUTSIDE AREA
+                 │             │
+                 ▼             ▼
+              ACCEPT         REJECT
+                 │
+                 ▼
+              QUEUE
 ```
 
-For systems like E-RANK, testing becomes especially important because different roles interact with the same underlying data and operational processes.
+The repository documents a **20-metre GPS radius** for driver QR check-in verification.
 
 ---
 
-# `10 / TECHNOLOGY STACK`
+# `10 / PASSENGER JOURNEY`
+
+```text
+┌──────────────┐
+│   SEARCH     │
+│ ROUTE / FARE │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│    SELECT    │
+│     TAXI     │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│   MANIFEST   │
+│    DETAILS   │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│    JOURNEY   │
+│   SHARING    │
+└──────┬───────┘
+       │
+       ├──────────────► FAMILY / WHATSAPP
+       │
+       ▼
+┌──────────────┐
+│   LIVE GPS   │
+│   LOCATION   │
+└──────────────┘
+```
+
+---
+
+# `11 / DRIVER + MARSHAL OPERATIONS`
+
+### DRIVER
+
+```text
+LOGIN
+  ↓
+ARRIVE AT RANK
+  ↓
+SCAN QR
+  ↓
+GPS VERIFICATION
+  ↓
+JOIN QUEUE
+  ↓
+BOARD PASSENGERS
+  ↓
+TRIP
+  ↓
+SOS / LOCATION
+  ↓
+DESTINATION
+  ↓
+RETURN QUEUE
+```
+
+### MARSHAL
+
+```text
+RANK CONTROL
+     │
+     ├── QR MANAGEMENT
+     ├── QUEUE MANAGEMENT
+     ├── RANK UPDATES
+     ├── GPS GEOFENCE
+     ├── PASSENGER ASSISTANCE
+     └── DEPARTURE CONTROL
+```
+
+---
+
+# `12 / REVENUE + OPERATIONS`
+
+E-RANK also connects operational events with financial information.
+
+```text
+PASSENGERS
+     │
+     ▼
+MANIFEST
+     │
+     ▼
+TRIP
+     │
+     ▼
+PASSENGER COUNT / VEHICLE SEATS
+     │
+     ▼
+FARE CALCULATION
+     │
+     ▼
+REVENUE
+     │
+     ▼
+REPORT
+     │
+     ▼
+EXCEL EXPORT
+```
+
+The system uses `openpyxl` for structured Excel reporting.
+
+---
+
+# `13 / AI + VOICE`
+
+<div align="center">
+
+## `THE INTELLIGENCE LAYER`
+
+```text
+                ┌─────────────────┐
+                │   AI ASSISTANT  │
+                └────────┬────────┘
+                         │
+          ┌──────────────┼──────────────┐
+          ▼              ▼              ▼
+        ROUTES          FARES          RANKS
+          │              │              │
+          └──────────────┼──────────────┘
+                         │
+                         ▼
+                 PASSENGER SUPPORT
+                         │
+                         ▼
+                  VOICE INTERFACE
+```
+
+</div>
+
+E-RANK's documented stack includes a multilingual AI assistant together with Web Speech API capabilities for voice input and text-to-speech.
+
+This is an area I want to take much further as my AI engineering skills develop.
+
+---
+
+# `14 / QUALITY ENGINEERING`
+
+<div align="center">
+
+# `BUILD → BREAK → TEST → FIX → REPEAT`
+
+</div>
+
+Software testing is not an afterthought in the way I think about engineering.
+
+For a system like E-RANK, testing must consider:
+
+```text
+                 REQUIREMENTS
+                      │
+                      ▼
+                 TEST DESIGN
+                      │
+                      ▼
+                IMPLEMENTATION
+                      │
+                      ▼
+               FUNCTIONAL TESTS
+                      │
+             ┌────────┴────────┐
+             ▼                 ▼
+          NEGATIVE           EDGE
+           TESTS             CASES
+             │                 │
+             └────────┬────────┘
+                      ▼
+                 INTEGRATION
+                      │
+                      ▼
+                   SYSTEM
+                    TESTING
+                      │
+                      ▼
+                TEST REPORTING
+                      │
+                      ▼
+                  RELEASE
+```
+
+The repository includes dedicated `tests`, `test_reports`, and an `eRANK_Test_Cases.xlsx` artifact.
+
+---
+
+# `15 / HOW I THINK ABOUT TESTING`
+
+```text
+CAN IT WORK?
+     ↓
+CAN IT FAIL?
+     ↓
+HOW CAN I MAKE IT FAIL?
+     ↓
+WHAT HAPPENS WHEN IT FAILS?
+     ↓
+CAN THE USER RECOVER?
+     ↓
+CAN ANOTHER USER ACCESS IT?
+     ↓
+WHAT HAPPENS AT THE EDGE?
+     ↓
+CAN WE AUTOMATE THE TEST?
+```
+
+### Testing interests
+
+`Functional Testing`
+`Regression Testing`
+`Integration Testing`
+`API Testing`
+`UI Testing`
+`Database Testing`
+`Boundary Testing`
+`Negative Testing`
+`Defect Investigation`
+`Test Automation`
+`CI/CD Quality Gates`
+
+---
+
+# `16 / TECHNOLOGY MATRIX`
 
 <div align="center">
 
@@ -410,263 +715,328 @@ For systems like E-RANK, testing becomes especially important because different 
 
 <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
 
-### DATABASES
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=mysql" />
+### APPLICATION & BACKEND
 
-### DEVELOPMENT
+<img src="https://skillicons.dev/icons?i=react,fastapi,django,flask,nodejs" />
 
-<img src="https://skillicons.dev/icons?i=django,flask,nodejs" />
+<br><br>
 
-### ENGINEERING TOOLS
+### DATA
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+<br><br>
+
+### ENGINEERING
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 
 </div>
 
 ---
 
-# `11 / AI ENGINEERING TRACK`
-
-My longer-term direction includes AI engineering and intelligent software systems.
+# `17 / AI ENGINEERING LAB`
 
 ```text
-                    AI ENGINEERING
-                          │
-             ┌────────────┼────────────┐
-             ▼            ▼            ▼
-          PYTHON        DATA          APIs
-             │            │            │
-             └────────────┼────────────┘
-                          ▼
-                  MACHINE LEARNING
-                          │
-                          ▼
-                         LLMs
-                          │
-              ┌───────────┴───────────┐
-              ▼                       ▼
-            RAG                    AGENTS
-              │                       │
-              └───────────┬───────────┘
-                          ▼
-                   AI APPLICATIONS
-                          │
-                          ▼
-                  PRODUCTION SYSTEMS
+                         AI ENGINEERING
+                               │
+             ┌─────────────────┼─────────────────┐
+             │                 │                 │
+             ▼                 ▼                 ▼
+          PYTHON              DATA              APIs
+             │                 │                 │
+             └─────────────────┼─────────────────┘
+                               ▼
+                       MACHINE LEARNING
+                               │
+                               ▼
+                              LLMs
+                               │
+                 ┌─────────────┴─────────────┐
+                 ▼                           ▼
+                RAG                         AGENTS
+                 │                           │
+                 └─────────────┬─────────────┘
+                               ▼
+                       AI APPLICATIONS
+                               │
+                               ▼
+                     PRODUCTION SYSTEMS
 ```
 
-### Current areas of exploration
+### Current exploration
 
-* Large Language Models
-* AI Agents
-* Retrieval-Augmented Generation
-* Automation
-* AI-powered applications
-* APIs
-* Data pipelines
-* Intelligent workflows
+* LLM applications
+* AI agents
+* RAG systems
+* AI-assisted automation
+* Intelligent APIs
+* AI-powered workflows
+* Voice interfaces
 * Production AI architecture
 
-The objective is to learn how to move beyond simply **using AI** and toward **engineering systems around AI**.
-
 ---
 
-# `12 / CYBERSECURITY`
-
-Security is another area I am actively developing.
-
-My interest is focused on understanding how software can be designed to reduce unnecessary risk.
-
-```text
-APPLICATION SECURITY
-        │
-        ├── Authentication
-        ├── Authorization
-        ├── Access Control
-        ├── Input Validation
-        ├── Data Protection
-        ├── Secure APIs
-        ├── Database Security
-        ├── Vulnerability Awareness
-        └── Secure Development
-```
-
-For systems handling users, vehicles, operational information and potentially sensitive data, security cannot be treated as an afterthought.
-
----
-
-# `13 / PROJECT LABORATORY`
+# `18 / ENGINEERING DNA`
 
 <div align="center">
 
-| PROJECT                               | DOMAIN                    | TECHNOLOGY          | STATUS               |
-| ------------------------------------- | ------------------------- | ------------------- | -------------------- |
-| 🚕 **E-RANK**                         | Transport / Operations    | Software + Database | `ACTIVE DEVELOPMENT` |
-| 🤖 **AI Trading System**              | AI / Automation           | Python              | `EXPLORING`          |
-| 🍽️ **Dilostofong RMS**               | Business Systems          | Java / MySQL        | `BUILT`              |
-| 🏠 **Student Accommodation Platform** | Web / Information Systems | Web / Database      | `EXPLORING`          |
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│                     ENGINEERING DNA                         │
+│                                                             │
+│  I DON'T ONLY ASK:                                          │
+│                                                             │
+│                 "CAN I BUILD IT?"                            │
+│                                                             │
+│  I ALSO ASK:                                                │
+│                                                             │
+│     WHO USES IT?                                            │
+│     WHAT CAN BREAK?                                         │
+│     WHO SHOULD HAVE ACCESS?                                 │
+│     HOW DO I TEST IT?                                       │
+│     WHAT HAPPENS WHEN IT FAILS?                             │
+│     HOW DO I SECURE IT?                                     │
+│     HOW DOES IT SCALE?                                      │
+│     WHAT CAN BE AUTOMATED?                                  │
+│     WHERE CAN AI ACTUALLY HELP?                             │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
 ---
 
-# `14 / CURRENT MISSION`
+# `19 / PROJECT LAB`
 
-```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│                  2026 ENGINEERING                   │
-│                                                     │
-│  [██████████████████░░░░]  BUILD                   │
-│  [████████████████░░░░░░]  TEST                   │
-│  [██████████████░░░░░░░░]  AUTOMATE               │
-│  [████████████░░░░░░░░░░]  AI                     │
-│  [██████████░░░░░░░░░░░░]  SECURITY               │
-│                                                     │
-│             STATUS: IN PROGRESS                    │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Current priorities
+## 🚕 E-RANK
 
-**01** — Strengthen software engineering fundamentals
-**02** — Take E-RANK beyond the academic prototype
-**03** — Develop professional software testing skills
-**04** — Learn test automation
-**05** — Build AI-powered applications
-**06** — Understand production systems and deployment
-**07** — Develop cybersecurity knowledge
-**08** — Build a portfolio of real engineering projects
+**Transport Technology**
+
+Taxi rank management and operations platform.
+
+`React` `FastAPI` `MongoDB` `JWT` `GPS` `QR` `AI`
+
+**STATUS:** `ACTIVE DEVELOPMENT`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🤖 AI TRADING SYSTEM
+
+**AI / Automation**
+
+Experimental automated market-analysis and decision-support project.
+
+`Python` `Automation` `Data`
+
+**STATUS:** `EXPLORING`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 🍽️ DILOSTOFONG RMS
+
+**Business Systems**
+
+Restaurant management system developed with Java and MySQL.
+
+`Java` `MySQL` `NetBeans`
+
+**STATUS:** `BUILT`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🏠 STUDENT ACCOMMODATION
+
+**Information Systems**
+
+A platform concept focused on helping students discover accommodation.
+
+`Web` `Database` `Systems`
+
+**STATUS:** `EXPLORING`
+
+</td>
+</tr>
+</table>
 
 ---
 
-# `15 / GITHUB TELEMETRY`
+# `20 / THE ROAD AHEAD`
+
+```text
+                         2026
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │ ICT APPLICATION DEV  │
+                └──────────┬──────────┘
+                           │
+              ┌────────────┼────────────┐
+              ▼            ▼            ▼
+           TESTING       E-RANK        AI
+              │            │            │
+              ▼            ▼            ▼
+        AUTOMATION      EXPANSION     AGENTS
+              │            │            │
+              └────────────┼────────────┘
+                           │
+                           ▼
+                    PRODUCTION SYSTEMS
+                           │
+                           ▼
+                     CLOUD / DEVOPS
+                           │
+                           ▼
+                  AI ENGINEERING
+                           │
+                           ▼
+                  SOFTWARE QUALITY
+```
+
+### My direction
+
+**Software Engineering**
+→ **Software Testing**
+→ **Test Automation**
+→ **AI Engineering**
+→ **Production Systems**
+→ **Intelligent Software**
+
+---
+
+# `21 / BUILD PHILOSOPHY`
+
+```text
+01  REAL PROBLEMS OVER TOY PROBLEMS.
+
+02  UNDERSTAND THE USER BEFORE WRITING THE CODE.
+
+03  ARCHITECTURE BEFORE COMPLEXITY.
+
+04  SECURITY FROM THE BEGINNING.
+
+05  TEST WHAT YOU BUILD.
+
+06  AUTOMATE REPETITIVE WORK.
+
+07  USE AI WHERE IT CREATES REAL VALUE.
+
+08  LEARN THE FUNDAMENTALS BEHIND THE TOOLS.
+
+09  BUILD → BREAK → LEARN → IMPROVE.
+
+10  EVERY PROJECT SHOULD TEACH SOMETHING.
+```
+
+---
+
+# `22 / GITHUB TELEMETRY`
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=IamKholofeloPhala&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=IamKholofeloPhala&show_icons=true&hide_border=true&bg_color=05070A&title_color=00F7FF&icon_color=00F7FF&text_color=F8FAFC&rank_icon=github" height="180"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamKholofeloPhala&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamKholofeloPhala&layout=compact&hide_border=true&bg_color=05070A&title_color=00F7FF&text_color=F8FAFC" height="180"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IamKholofeloPhala&bg_color=05070A&color=00F7FF&line=00F7FF&point=FFFFFF&hide_border=true" width="96%"/>
 
 </div>
 
-<br>
+---
+
+# `23 / CONTRIBUTION MATRIX`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IamKholofeloPhala&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&hide_border=true" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=IamKholofeloPhala&theme=onestar&no-frame=true&no-bg=true&row=1&column=6" width="90%"/>
 
 </div>
 
 ---
 
-# `16 / ENGINEERING PRINCIPLES`
+# `24 / CURRENT SYSTEM STATUS`
+
+<div align="center">
 
 ```text
-01  Build for real problems.
-
-02  Understand the user before writing the system.
-
-03  Architecture matters.
-
-04  Security belongs in the design.
-
-05  Testing is engineering.
-
-06  Automation removes unnecessary repetition.
-
-07  AI should solve problems, not simply look impressive.
-
-08  Learn the fundamentals behind the tools.
-
-09  Build → break → test → improve.
-
-10  Every project is an opportunity to become a better engineer.
+╔══════════════════════════════════════════════════════════════╗
+║                    KHOLOFELO // LAB                         ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  SOFTWARE ENGINEERING       ████████████████░░░░   ACTIVE   ║
+║  SOFTWARE TESTING           ███████████████░░░░░   ACTIVE   ║
+║  E-RANK                     █████████████████░░░   ACTIVE   ║
+║  AUTOMATION                 ██████████████░░░░░░   ACTIVE   ║
+║  AI ENGINEERING             ████████████░░░░░░░░   LEARNING ║
+║  CYBERSECURITY              ███████████░░░░░░░░░   LEARNING ║
+║  CLOUD / DEVOPS             ████████░░░░░░░░░░░░   EXPLORING║
+║                                                              ║
+║                    ● ALL SYSTEMS BUILDING                    ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
+
+</div>
 
 ---
 
-# `17 / ROADMAP`
-
-```text
-2026
- │
- ├── ICT Application Development
- │
- ├── Software Testing
- │
- ├── E-RANK Development
- │
- ├── Git / GitHub
- │
- ├── Python
- │
- ├── Java
- │
- ├── Databases
- │
- ├── APIs
- │
- └── AI Foundations
- │
- ▼
-2027+
- │
- ├── Professional Software Engineering
- ├── Test Automation
- ├── CI/CD
- ├── Cloud
- ├── AI Engineering
- ├── AI Agents
- ├── RAG Systems
- ├── Cybersecurity
- └── Production Systems
-```
-
----
-
-# `18 / CONNECT`
+# `25 / CONNECT`
 
 <div align="center">
 
 <a href="mailto:kholophala26@outlook.com">
-<img src="https://img.shields.io/badge/EMAIL-kholophala26%40outlook.com-111827?style=for-the-badge&logo=microsoftoutlook&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/EMAIL-00F7FF?style=for-the-badge&logo=microsoftoutlook&logoColor=05070A"/>
 </a>
 
 <a href="https://github.com/IamKholofeloPhala">
-<img src="https://img.shields.io/badge/GITHUB-IamKholofeloPhala-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-0A0F16?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
 <a href="https://www.linkedin.com/in/kholofelo-phalakatshela-86317a221/">
-<img src="https://img.shields.io/badge/LINKEDIN-Kholofelo%20Phalakatshela-111827?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A0F16?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### `BUILDING SYSTEMS. LEARNING CONSTANTLY. SHIPPING FORWARD.`
-
-<br>
-
 ```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│       KHOLOFELO PHALAKATSHELA               │
-│                                              │
-│       SOFTWARE • AI • TESTING • SYSTEMS     │
-│                                              │
-│              SYSTEM ONLINE                  │
-│                                              │
-└──────────────────────────────────────────────┘
+╭─────────────────────────────────────────────────────────────╮
+│                                                             │
+│       BUILDING SYSTEMS.                                    │
+│       TESTING IDEAS.                                       │
+│       AUTOMATING WORK.                                     │
+│       ENGINEERING THE NEXT VERSION.                        │
+│                                                             │
+╰─────────────────────────────────────────────────────────────╯
 ```
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F7FF,100:0D1117&height=140&section=footer"/>
+### `FROM SOUTH AFRICA 🇿🇦 — BUILDING TOWARD THE FUTURE.`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070A,50:00F7FF,100:05070A&height=150&section=footer"/>
 
 </div>
